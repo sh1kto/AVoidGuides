@@ -1,4 +1,4 @@
-# 📘 Guide: Renaming EXT4 Partition Labels & Auto-Mounting Drives on Arch Linux
+# 📘Renaming EXT4 Partition Labels & Auto-Mounting Drives on Arch Linux
 
 This guide explains how to:
 
